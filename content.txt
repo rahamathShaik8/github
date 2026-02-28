@@ -1,1 +1,2 @@
-hello git 
+hello world!!
+Learning Git step by step
